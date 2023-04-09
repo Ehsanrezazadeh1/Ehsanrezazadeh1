@@ -1,4 +1,4 @@
-[![MasterHead](https://www.toogit.com/uploads/ServicesAttachments/2020/03220828192410.jpg)](https://rishavchanda.io)
+
 
  
 <h1 align="center">Hi 👋, I'm Ehsan Rezazadeh</h1>
